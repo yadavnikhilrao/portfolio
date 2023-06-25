@@ -516,17 +516,11 @@ img {
 .skills_python {
   width: 90%;
 }
-.skills_c {
-  width: 60%;
-}
-.skills_mysql {
-  width: 85%;
-}
-.skills_sa {
-  width: 80%;
-}
-.skills_dv {
+.skills_java {
   width: 75%;
+}
+.skills_ds {
+  width: 90%;
 }
 .skills_ml {
   width: 85%;
@@ -534,14 +528,17 @@ img {
 .skills_dl {
   width: 40%;
 }
-.skills_ws {
-  width: 70%;
+.skills_sql {
+  width: 85%;
 }
-.skills_hc {
-  width: 80%;
+.skills_front {
+  width: 75%;
+}
+.skills_back {
+  width: 85%;
 }
 .skills_md {
-  width: 70%;
+  width: 90%;
 }
 
 /*==================== QUALIFICATION ====================*/
